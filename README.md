@@ -9,4 +9,7 @@ g++ main.cpp tagger.cpp -o calc.sh
 # WINDOWES
 g++ main.cpp tagger.cpp -o calc.exe
 
-anyways HAVE A NICE DAY
+
+
+
+<h1> HAVE A NICE DAY<h1>
